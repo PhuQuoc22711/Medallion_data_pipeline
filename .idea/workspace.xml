@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fbd48b3-1e7a-418d-b3e5-47c386de9f51" name="Changes" comment="" />
+    <list default="true" id="3fbd48b3-1e7a-418d-b3e5-47c386de9f51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbt_project.yml" beforeDir="false" afterPath="$PROJECT_DIR$/dbt_project.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/example/my_first_dbt_model.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/example/my_second_dbt_model.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/example/schema.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/address.sql" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/address.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/customer.sql" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/customer.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/customeraddress.sql" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/customeraddress.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/product.sql" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/product.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/productmodel.sql" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/productmodel.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/productmodelproductdescription.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/salesorderdetail.sql" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/salesorderdetail.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/salesorderheader.sql" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/salesorderheader.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +35,12 @@
     &quot;assignee&quot;: &quot;PhuQuoc22711&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PhuQuoc22711/Medallion_data_pipeline",
-    "accountId": "45d68227-ea8a-44cd-a94b-1edfc4ca281a"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PhuQuoc22711/Medallion_data_pipeline&quot;,
+    &quot;accountId&quot;: &quot;45d68227-ea8a-44cd-a94b-1edfc4ca281a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -33,18 +49,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Pycharm_Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="dbt.Run dbt build">
     <configuration name="Run dbt build" type="DbtRunConfiguration" factoryName="DbtRunConfiguration">
       <option name="dbtCommand" value="build" />
@@ -89,7 +106,8 @@
       <option name="presentableId" value="Default" />
       <updated>1728482273275</updated>
       <workItem from="1728482275301" duration="350000" />
-      <workItem from="1728482643097" duration="1053000" />
+      <workItem from="1728482643097" duration="1346000" />
+      <workItem from="1728484013499" duration="22000" />
     </task>
     <servers />
   </component>

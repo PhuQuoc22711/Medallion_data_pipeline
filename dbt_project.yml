@@ -4,6 +4,7 @@
 # name or the intended use of these models
 name: 'medallion_dbt_spark'
 version: '1.0.0'
+config-version: 2
 
 # This setting configures which "profile" dbt uses for this project.
 profile: 'medallion_dbt_spark'
@@ -31,6 +32,3 @@ clean-targets:         # directories to be removed by `dbt clean`
 # files using the `{{ config(...) }}` macro.
 models:
   medallion_dbt_spark:
-    # Config indicated by + and applies to all files under models/example/
-    example:
-      +materialized: view
